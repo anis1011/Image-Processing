@@ -1,0 +1,41 @@
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: red;
+    cursor: inherit;
+    display: block;
+}
+
+.boxx img{
+     max-width:365px;
+}
+.theimage{
+   margin-bottom:20px;
+}
+.wrapper{
+    width: 100%;
+    height: auto;
+    background-color: ;
+    padding-top: 30px;
+}
+
+.gap{
+    padding-top: 15px; 
+}
+
+.topheader{
+    padding-bottom: 30px;
+   text-align:center;
+}
